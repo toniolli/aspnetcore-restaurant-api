@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Application/Application.csproj" Id="3b5a3b40-e3b2-48bc-acf7-3c1fef5671dd" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Infra/Infra.csproj" Id="81c1c346-d3f9-4e8e-bc65-a5db9079eedb" />
+  <Project Path="InfraIOC/InfraIOC.csproj" Id="bb5ea30a-dce6-4124-8f9a-42795180a3d3" />
+  <Project Path="Tests/Tests.csproj" Id="08aa76c8-190d-4aaa-8fba-4b25194ff9f6" />
+  <Project Path="Triad/Triad.csproj" />
+</Solution>
